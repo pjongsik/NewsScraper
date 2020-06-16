@@ -32,7 +32,7 @@ namespace NewsScraper
             }
 
 
-            Console.WriteLine("------- 호재 뉴스 ----------");
+            Console.WriteLine("------- 호재 뉴스 ---------");
             foreach (var data in result)
             {
                 Console.WriteLine("{0}, {1}", data.Url, data.Title);
