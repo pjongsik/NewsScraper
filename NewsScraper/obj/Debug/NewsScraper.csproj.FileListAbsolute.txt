@@ -1,0 +1,9 @@
+D:\workspace_vs2015\NewsScraper\NewsScraper\bin\Debug\NewsScraper.exe.config
+D:\workspace_vs2015\NewsScraper\NewsScraper\obj\Debug\NewsScraper.csprojResolveAssemblyReference.cache
+D:\workspace_vs2015\NewsScraper\NewsScraper\obj\Debug\NewsScraper.MainForm.resources
+D:\workspace_vs2015\NewsScraper\NewsScraper\obj\Debug\NewsScraper.Properties.Resources.resources
+D:\workspace_vs2015\NewsScraper\NewsScraper\obj\Debug\NewsScraper.csproj.GenerateResource.Cache
+D:\workspace_vs2015\NewsScraper\NewsScraper\bin\Debug\NewsScraper.exe
+D:\workspace_vs2015\NewsScraper\NewsScraper\bin\Debug\NewsScraper.pdb
+D:\workspace_vs2015\NewsScraper\NewsScraper\obj\Debug\NewsScraper.exe
+D:\workspace_vs2015\NewsScraper\NewsScraper\obj\Debug\NewsScraper.pdb
