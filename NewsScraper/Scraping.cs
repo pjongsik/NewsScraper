@@ -39,6 +39,10 @@ namespace NewsScraper
                 wReq.CookieContainer = new CookieContainer();
                 wReq.CookieContainer.SetCookies(uri, cookie); // 넘겨줄 쿠키가 있을때 CookiContainer 에 저장
 
+                ServicePointManager.Expect100Continue = true;
+                ServicePointManager.ServerCertificateValidationCallback = delegate { return true; };
+                ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls | SecurityProtocolType.Tls11 | SecurityProtocolType.Tls12 | SecurityProtocolType.Ssl3;
+                
                 // post 파라미터 처리
                 if (method == Method.POST)
                 {
